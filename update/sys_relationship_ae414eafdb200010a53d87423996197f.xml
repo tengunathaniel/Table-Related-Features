@@ -2,27 +2,27 @@
     <sys_relationship action="INSERT_OR_UPDATE">
         <advanced>false</advanced>
         <apply_to/>
-        <basic_apply_to>task</basic_apply_to>
+        <basic_apply_to>x_364029_trf_test_table</basic_apply_to>
         <basic_query_from>x_364029_trf_extended_table</basic_query_from>
         <insert_callback/>
         <name>Test Table -&gt; Extended Records</name>
         <query_from/>
-        <query_with><![CDATA[current.addQuery('task_records', parent.sys_id);]]></query_with>
+        <query_with><![CDATA[current.query();]]></query_with>
         <reference_field>task_records</reference_field>
         <related_list/>
-        <simple_reference>true</simple_reference>
+        <simple_reference>false</simple_reference>
         <sys_class_name>sys_relationship</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-23 13:55:56</sys_created_on>
         <sys_id>ae414eafdb200010a53d87423996197f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Test Table -&gt; Extended Records</sys_name>
         <sys_package display_value="Table Related Features" source="x_364029_trf">7a39a67adbe40010a53d8742399619e4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Table Related Features">7a39a67adbe40010a53d8742399619e4</sys_scope>
         <sys_update_name>sys_relationship_ae414eafdb200010a53d87423996197f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-23 13:56:40</sys_updated_on>
+        <sys_updated_on>2019-10-23 14:18:20</sys_updated_on>
     </sys_relationship>
     <sys_translated_text action="delete_multiple" query="documentkey=ae414eafdb200010a53d87423996197f"/>
 </record_update>
