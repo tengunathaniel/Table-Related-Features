@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Record Dates" section_id="ebccf5abdb200010a53d87423996197b" sys_domain="global" table="x_364029_trf_extended_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-23 13:33:52</sys_created_on>
+            <sys_id>6bccf5abdb200010a53d87423996197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Dates" display_value="Record Dates" name="x_364029_trf_extended_table" sys_domain="global" view="Default view">ebccf5abdb200010a53d87423996197b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-23 13:33:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-23 13:33:52</sys_created_on>
+            <sys_id>ebccf5abdb200010a53d87423996197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Dates" display_value="Record Dates" name="x_364029_trf_extended_table" sys_domain="global" view="Default view">ebccf5abdb200010a53d87423996197b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-23 13:33:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-23 13:33:52</sys_created_on>
+            <sys_id>6fccf5abdb200010a53d87423996197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Dates" display_value="Record Dates" name="x_364029_trf_extended_table" sys_domain="global" view="Default view">ebccf5abdb200010a53d87423996197b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-23 13:33:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-23 13:33:52</sys_created_on>
+            <sys_id>efccf5abdb200010a53d87423996197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Dates" display_value="Record Dates" name="x_364029_trf_extended_table" sys_domain="global" view="Default view">ebccf5abdb200010a53d87423996197b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-23 13:33:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-23 13:33:52</sys_created_on>
+            <sys_id>63ccf5abdb200010a53d87423996197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Dates" display_value="Record Dates" name="x_364029_trf_extended_table" sys_domain="global" view="Default view">ebccf5abdb200010a53d87423996197b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-23 13:33:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Record Dates</caption>
+            <header>false</header>
+            <name>x_364029_trf_extended_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-23 13:33:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebccf5abdb200010a53d87423996197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Record Dates</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Table Related Features" source="x_364029_trf">7a39a67adbe40010a53d8742399619e4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Table Related Features">7a39a67adbe40010a53d8742399619e4</sys_scope>
+            <sys_update_name>sys_ui_section_ebccf5abdb200010a53d87423996197b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-23 13:33:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
