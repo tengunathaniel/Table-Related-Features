@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test Table" max_length="40" name="x_364029_trf_test_table" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Test Checkbox" max_length="40" name="test_checkbox" type="boolean"/>
+        <element choice="1" label="Test Choice" max_length="40" name="test_choice" type="choice">
+            <choice/>
+        </element>
+        <element label="Test Description" max_length="255" name="test_description" type="string_full_utf8"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

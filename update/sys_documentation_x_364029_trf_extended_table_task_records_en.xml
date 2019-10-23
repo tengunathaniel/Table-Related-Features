@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="task_records" label="Task Records" language="en" table="x_364029_trf_extended_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>task_records</element>
+            <help/>
+            <hint/>
+            <label>Task Records</label>
+            <language>en</language>
+            <name>x_364029_trf_extended_table</name>
+            <plural>Task Records</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-23 13:25:23</sys_created_on>
+            <sys_id>9bda352bdb200010a53d8742399619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Task Records</sys_name>
+            <sys_package display_value="Table Related Features" source="x_364029_trf">7a39a67adbe40010a53d8742399619e4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Table Related Features">7a39a67adbe40010a53d8742399619e4</sys_scope>
+            <sys_update_name>sys_documentation_x_364029_trf_extended_table_task_records_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-23 13:25:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

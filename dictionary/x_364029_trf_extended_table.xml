@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_364029_trf_test_table" label="Extended Table" max_length="40" name="x_364029_trf_extended_table" type="collection">
+        <element label="Task Records" max_length="32" name="task_records" reference="task" type="reference"/>
+        <index name="index">
+            <element name="task_records"/>
+        </index>
+    </element>
+</database>
